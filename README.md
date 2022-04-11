@@ -1,7 +1,7 @@
 # FreeCodeCampJS
 ## freecodecamp JS project
 
-### Convert the given number into a roman numeral.
+### 1. Convert the given number into a roman numeral.
 
 
   Roman | Numbers
@@ -20,3 +20,6 @@
       V| 5
      IV|4
       I| 1
+      
+      
+### 2. Check the given string is palindrome or not
