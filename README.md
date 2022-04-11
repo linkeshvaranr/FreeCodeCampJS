@@ -23,3 +23,7 @@
       
       
 ### 2. Check the given string is palindrome or not
+
++ Using regex remove white spaces and char
++ Using array methods split , reverse and join reverse the string
++ compare two strings and return the boolean value
