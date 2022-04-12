@@ -28,7 +28,7 @@
 + Using array methods split , reverse and join reverse the string
 + compare two strings and return the boolean value
 
-### 3. Caesa Cipher
+### 3. Caesar Cipher
 
 One of the simplest and most widely known ciphers is a Caesar cipher, also known as a shift cipher. In a shift cipher the meanings of the letters are shifted by some set amount.
 
